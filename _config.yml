@@ -1,6 +1,6 @@
 title: 瞳
 description: > # this means to ignore newlines until "baseurl:"
-  逆行不可<br>
+  逆行不可。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.hitomi.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -8,10 +8,8 @@ url: "https://blog.hitomi.dev" # the base hostname & protocol for your site, e.g
 author:
   name: 'Araragi Hokuto'
   last_name: '北斗'
-  avatar: '/images/avatar.jpeg'
   github_username:  araragihokuto  
   email: araragihokuto@outlook.com
-  logo: '/images/logo.svg'
 
 # Build settings
 markdown: kramdown
